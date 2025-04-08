@@ -1,5 +1,5 @@
 {
-    "name": "Shakil147/laravel-unique-rule-test",
+    "name": "shakil147/laravel-unique-rule-test",
     "description": "A reusable Laravel validation rule for unique data with extra filters.",
     "type": "library",
     "license": "MIT",
